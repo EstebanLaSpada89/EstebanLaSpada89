@@ -6,7 +6,7 @@
 
 ### 📌 About Me
 
-I’m a passionate and detail-oriented **Data Analyst** from Argentina 🇦🇷 with a background in software development. I believe that data hides powerful stories, and I thrive on transforming complex information into clear, actionable insights.
+I’m a passionate and detail-oriented **Data Analyst** with a background in software development. I believe that data hides powerful stories, and I thrive on transforming complex information into clear, actionable insights.
 
 - 🧠 Currently deepening my skills in **Python**, **Machine Learning**, and **Cloud tools (AWS)**
 - 📊 I specialize in building **interactive dashboards**, **data pipelines**, and **predictive models**
@@ -90,7 +90,7 @@ Here are some of the projects I'm proud of:
 ### 📚 Certifications & Education
 
 - 📜 Data Science Certificate – CoderHouse
-- 🎓 Technical Degree in Software Development – Universidad Nacional de Cuyo
+- 🎓 Studying Technical Degree in Software Development – Universidad Nacional de Cuyo
 - 📖 Courses in Machine Learning, Cybersecurity, Web Programming, and more
 
 ---
