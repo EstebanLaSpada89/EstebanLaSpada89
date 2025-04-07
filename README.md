@@ -24,7 +24,7 @@ Data Analyst, believer that valuable information comes from data.
   <img src="https://github.com/user-attachments/assets/80f9eb2d-2470-45aa-a667-cd29d3cca6f0" alt="Excel" width="80" height="80"/> &nbsp;
   <img src="https://www.stickersdevs.com.br/wp-content/uploads/2021/09/powerbi_sticker_adesivo-280x280.jpg" alt="PowerBi" width="80" height="80"/> &nbsp;
   <img src="https://www.kindpng.com/picc/m/20-204281_transparent-png-tableau-logo-png-download.png" alt="Tableau" width="80" height="80"/> &nbsp;
-</p>
+  <img src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" alt="MySql" width="80" height="80"/> &nbsp;
 </p>
 
 
