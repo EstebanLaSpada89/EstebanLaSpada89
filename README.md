@@ -18,7 +18,11 @@ Data Analyst, believer that valuable information comes from data.
 
 ## Technologies
 
-![piton](https://github.com/user-attachments/assets/b5151497-bd7e-4d76-834f-df51a2c81c17). ![servidor-sql](https://github.com/user-attachments/assets/dcbd18c6-945c-4a32-a987-b594e5a74824) ![sobresalir](https://github.com/user-attachments/assets/80f9eb2d-2470-45aa-a667-cd29d3cca6f0) 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b5151497-bd7e-4d76-834f-df51a2c81c17" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/dcbd18c6-945c-4a32-a987-b594e5a74824" alt="SQL Server" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/80f9eb2d-2470-45aa-a667-cd29d3cca6f0" alt="Excel" width="40" height="40"/>
+</p>
 
 
 
