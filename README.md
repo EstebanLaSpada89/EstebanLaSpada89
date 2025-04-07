@@ -22,10 +22,10 @@ I’m a passionate and detail-oriented **Data Analyst** with a background in sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- SQL Server -->
-  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="SQL Server" width="80" height="80" style="margin-right: 15px;"/>
+  <img src="https://thumbs.dreamstime.com/b/logo-icon-vector-logos-logo-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-emblem-wallpaper-background-editorial-208329569.jpg" alt="SQL Server" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- MySQL -->
-  <img src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" alt="MySQL" width="80" height="80" style="margin-right: 15px;"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- Excel -->
   <img src="https://github.com/user-attachments/assets/80f9eb2d-2470-45aa-a667-cd29d3cca6f0" alt="Excel" width="80" height="80" style="margin-right: 15px;"/>
