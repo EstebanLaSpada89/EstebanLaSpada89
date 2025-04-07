@@ -36,21 +36,6 @@ I’m a passionate and detail-oriented **Data Analyst** with a background in sof
   <!-- Tableau -->
   <img src="https://www.kindpng.com/picc/m/20-204281_transparent-png-tableau-logo-png-download.png" alt="Tableau" width="80" height="80" style="margin-right: 15px;"/>
   
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="80" height="80" style="margin-right: 15px;"/>
-  
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80" style="margin-right: 15px;"/>
-  
-  <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="80" style="margin-right: 15px;"/>
-  
-  <!-- Keras -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="80" height="80" style="margin-right: 15px;"/>
-  
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="80" height="80" style="margin-right: 15px;"/>
-  
   <!-- AWS -->
   <img src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" alt="AWS" width="80" height="80" style="margin-right: 15px;"/>
 </p>
