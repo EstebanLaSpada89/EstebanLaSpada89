@@ -64,10 +64,10 @@ Here are some of the projects I'm proud of:
 - 🔍 **[Employee Attrition Analysis](https://github.com/EstebanLaSpada89/Rotacion-de-Empleados.git)**  
   Used Python and Power BI to explore factors contributing to employee turnover. Applied machine learning models to predict attrition.
 
-- 📈 **[Sales Dashboard](https://github.com/tuusuario/sales-dashboard)**  
+- 📈 **[Sales Dashboard](https://github.com/EstebanLaSpada89/Recursos-Humanos.git)**  
   Built a fully interactive dashboard in Power BI, using DAX, Excel, and SQL to visualize sales performance across regions and products.
 
-- 🎥 **[IMDb Sentiment Analysis](https://github.com/tuusuario/imdb-sentiment-nlp)**  
+- 🎥 **[IMDb Sentiment Analysis](https://github.com/EstebanLaSpada89/Analisis-de-Sentimiento-IMDB.git)**  
   NLP project leveraging TensorFlow, Keras and scikit-learn to classify movie reviews by sentiment using neural networks.
 
 > 📌 *More projects on the way… stay tuned!*
