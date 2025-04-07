@@ -57,7 +57,7 @@ Here are some of the projects I'm proud of:
 - 🎥 **[IMDb Sentiment Analysis](https://github.com/EstebanLaSpada89/Analisis-de-Sentimiento-IMDB.git)**  
   NLP project leveraging TensorFlow, Keras and scikit-learn to classify movie reviews by sentiment using neural networks.
 
-> 📌 *More projects on the way… stay tuned!*
+ 👨🏻‍💻 *More projects on the way… stay tuned!*
 
 ---
 
