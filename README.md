@@ -61,7 +61,7 @@ I’m a passionate and detail-oriented **Data Analyst** with a background in sof
 
 Here are some of the projects I'm proud of:
 
-- 🔍 **[Employee Attrition Analysis]([https://github.com/tuusuario/employee-attrition-analysis])**  
+- 🔍 **[Employee Attrition Analysis](https://github.com/EstebanLaSpada89/Rotacion-de-Empleados.git)**  
   Used Python and Power BI to explore factors contributing to employee turnover. Applied machine learning models to predict attrition.
 
 - 📈 **[Sales Dashboard](https://github.com/tuusuario/sales-dashboard)**  
