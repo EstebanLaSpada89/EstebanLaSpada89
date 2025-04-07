@@ -18,7 +18,8 @@ Data Analyst, believer that valuable information comes from data.
 
 ## Technologies
 
-![piton](https://github.com/user-attachments/assets/b5151497-bd7e-4d76-834f-df51a2c81c17)
+![piton](https://github.com/user-attachments/assets/b5151497-bd7e-4d76-834f-df51a2c81c17) ![servidor-sql](https://github.com/user-attachments/assets/dcbd18c6-945c-4a32-a987-b594e5a74824)
+
 
 
 Socials
