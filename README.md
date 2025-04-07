@@ -90,7 +90,7 @@ Here are some of the projects I'm proud of:
 ### 📚 Certifications & Education
 
 - 📜 Data Science Certificate – CoderHouse
-- 🎓 Studying Technical Degree in Software Development – Universidad Nacional de Cuyo
+- 🎓 *Currently studying* Studying Technical Degree in Software Development – Universidad Nacional de Cuyo
 - 📖 Courses in Machine Learning, Cybersecurity, Web Programming, and more
 
 ---
