@@ -22,7 +22,7 @@ I’m a passionate and detail-oriented **Data Analyst** with a background in sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL Server" width="80" height="80" style="margin-right: 15px;"/>
+  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="SQL Server" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- MySQL -->
   <img src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" alt="MySQL" width="80" height="80" style="margin-right: 15px;"/>
