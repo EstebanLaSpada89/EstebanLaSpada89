@@ -12,8 +12,8 @@ I’m a passionate and detail-oriented **Data Analyst** with a background in sof
 - 📊 I specialize in building **interactive dashboards**, **data pipelines**, and **predictive models**.
 - 🌱 Lifelong learner always exploring new technologies.
 - 🎮 Fan of video games, horror & superhero movies.
-- ☕ I drink more coffee than I should.
-- 🚀 My goal for 2025: Build my first open-source ML tool.
+- ☕ I drink more **coffee** than I should.
+- 🚀 My goal for 2025: Build my first open-source **ML** tool.
 
 ---
 
@@ -84,4 +84,4 @@ Here are some of the projects I'm proud of:
 
 ---
 
-*Thanks for stopping by! Let's build something amazing together 🙋🏻‍♂️*
+*Thanks for stopping by! Let's build something amazing together*  🙋🏻‍♂️
