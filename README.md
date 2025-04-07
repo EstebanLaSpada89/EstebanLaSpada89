@@ -31,5 +31,9 @@ Data Analyst, believer that valuable information comes from data.
 
 
 
-Socials
+## Socials
+
+<p align="left">
+  <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkedin" width="80" height="80"/> &nbsp;
+</p>
 
