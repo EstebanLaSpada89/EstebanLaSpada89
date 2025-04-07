@@ -68,8 +68,7 @@ Here are some of the projects I'm proud of:
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/>
   </a>
 </p>
-<br>
-</br>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/esteban-la-spada/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
