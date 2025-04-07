@@ -26,6 +26,7 @@ Data Analyst, believer that valuable information comes from data.
   <img src="https://www.kindpng.com/picc/m/20-204281_transparent-png-tableau-logo-png-download.png" alt="Tableau" width="80" height="80"/> &nbsp;
   <img src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" alt="MySql" width="80" height="80"/> &nbsp;
   <img src="https://th.bing.com/th/id/R.3480db5eabd3ef35cf349caa44c5171e?rik=zibIPCn2JFkBlw&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG53.png&ehk=X2mIv%2f4hHteG4hRdibH60ZqJQ6Jzqr3YgwTCpJBiII8%3d&risl=&pid=ImgRaw&r=0" alt="GitHub" width="80" height="80"/> &nbsp;
+  <img src="https://image.pngaaa.com/681/876681-middle.png" alt="AWS" width="80" height="80"/> &nbsp;
 </p>
 
 
