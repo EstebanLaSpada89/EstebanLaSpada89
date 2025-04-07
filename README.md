@@ -28,7 +28,7 @@ I’m a passionate and detail-oriented **Data Analyst** from Argentina 🇦🇷 
   <img src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" alt="MySQL" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="80" height="80" style="margin-right: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/80f9eb2d-2470-45aa-a667-cd29d3cca6f0" alt="Excel" width="80" height="80" style="margin-right: 15px;"/>
   
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="80" style="margin-right: 15px;"/>
@@ -89,8 +89,8 @@ Here are some of the projects I'm proud of:
 
 ### 📚 Certifications & Education
 
-- 📜 Data Science Certificate – [Institución]
-- 🎓 Technical Degree in Software Development – [Institución]
+- 📜 Data Science Certificate – CoderHouse
+- 🎓 Technical Degree in Software Development – Universidad Nacional de Cuyo
 - 📖 Courses in Machine Learning, Cybersecurity, Web Programming, and more
 
 ---
