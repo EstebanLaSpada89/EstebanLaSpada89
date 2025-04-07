@@ -8,10 +8,12 @@
 
 I’m a passionate and detail-oriented **Data Analyst** with a background in software development. I believe that data hides powerful stories, and I thrive on transforming complex information into clear, actionable insights.
 
-- 🧠 Currently deepening my skills in **Python**, **Machine Learning**, and **Cloud tools (AWS)**
-- 📊 I specialize in building **interactive dashboards**, **data pipelines**, and **predictive models**
-- 🌱 Lifelong learner always exploring new technologies
-- 🎮 Fan of video games, horror & superhero movies
+- 🧠 Currently deepening my skills in **Python**, **Machine Learning**, and **Cloud tools (AWS)**.
+- 📊 I specialize in building **interactive dashboards**, **data pipelines**, and **predictive models**.
+- 🌱 Lifelong learner always exploring new technologies.
+- 🎮 Fan of video games, horror & superhero movies.
+- ☕ I drink more coffee than I should.
+- 🚀 My goal for 2025: Build my first open-source ML tool.
 
 ---
 
@@ -74,17 +76,11 @@ Here are some of the projects I'm proud of:
 
 ### 📚 Certifications & Education
 
-- 📜 Data Science Certificate – CoderHouse
-- 🎓 **Currently studying** Technical Degree in Software Development – Universidad Nacional de Cuyo
-- 📖 Courses in Machine Learning, Cybersecurity, Web Programming, and more
+- 📜 Data Science Certificate – CoderHouse.
+- 🎓 **Currently studying** Technical Degree in Software Development – Universidad Nacional de Cuyo.
+- 📖 Courses in Machine Learning, Cybersecurity, Web Programming, and more.
 
----
 
-### 🧩 Fun Facts
-
-- 🎮 I love retro video games and movie soundtracks  
-- ☕ I drink more coffee than I should  
-- 🚀 My goal for 2025: Build my first open-source ML tool
 
 ---
 
